@@ -1,2 +1,3 @@
 # AdventureX-Travel-page
-Responsive Reise-Webseite mit modernem Layout und Karten-Design.
+Responsive Landing Page mit modernem Layout und strukturiertem Design.
+Fokus auf CSS Layout, Flexbox/Grid und UI-Struktur.
